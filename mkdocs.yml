@@ -16,8 +16,7 @@ theme:
 
 # Extensions
 markdown_extensions:
-  - pymdownx.highlight:
-    anchor_linenums: true
+  - pymdownx.highlight
   - footnotes
   - pymdownx.inlinehilite
   - pymdownx.snippets
