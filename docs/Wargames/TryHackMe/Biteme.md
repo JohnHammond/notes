@@ -25,4 +25,18 @@ for i in range(1,4464):
 print(bytearray(text).decode("utf-8"))
 ```
 
+
+```py
+#!/usr/bin/env python3
+
+import os
+
+
+text = []
+for i in range(1,4464):
+	text.append(open(f"source/{i}", "rb").read()[0])
+
+print(bytearray(text).decode("utf-8"))
+```
+
 	

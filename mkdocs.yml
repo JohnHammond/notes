@@ -16,7 +16,12 @@ theme:
 
 # Extensions
 markdown_extensions:
+  - pymdownx.highlight:
+    anchor_linenums: true
   - footnotes
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences

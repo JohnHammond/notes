@@ -7,8 +7,12 @@
         "id": "22e616f2dfe47f8a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/Wargames/TryHackMe/Biteme.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Wargames/TryHackMe/Biteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,8 @@
   },
   "active": "22e616f2dfe47f8a",
   "lastOpenFiles": [
-    "images/Pasted image 20220313221041.png",
     "docs/Wargames/TryHackMe/Biteme.md",
+    "images/Pasted image 20220313221041.png",
     "docs/Wargames/TryHackMe/Pasted image 20220313221939.png",
     "docs/About.md",
     "docs/index.md",
