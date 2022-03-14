@@ -1,17 +1,8 @@
-site_name: obsidian-mkdocs template
+site_name: John Hammond
 
 theme:
     name: 'material'
     palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: red
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -21,6 +12,15 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
 
 # Extensions
 markdown_extensions:
