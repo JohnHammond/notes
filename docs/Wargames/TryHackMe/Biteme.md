@@ -7,7 +7,7 @@
 
 Trying things with images:
 
-![[Pasted image 20220313221041.png]]
+![](Pasted%20image%2020220313221939.png)
 
 
 And with code blocks:
@@ -25,3 +25,4 @@ for i in range(1,4464):
 print(bytearray(text).decode("utf-8"))
 ```
 
+	
