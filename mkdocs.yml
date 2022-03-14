@@ -7,20 +7,12 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: red
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+      primary: black
+      accent: light blue
+      # toggle:
+      #   icon: material/toggle-switch
+      #   name: Switch to light mode
 
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: red
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
 
 # Extensions
 markdown_extensions:
