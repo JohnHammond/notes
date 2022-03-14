@@ -9,6 +9,10 @@ Trying things with images:
 
 ![](Pasted%20image%2020220313221939.png)
 
+Trying a different path:
+
+![](../../images/Pasted%20image%2020220313222535.png)
+
 
 And with code blocks:
 

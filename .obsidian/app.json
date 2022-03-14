@@ -1,7 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "attachmentFolderPath": "docs/Wargames/TryHackMe",
+  "attachmentFolderPath": "docs/images",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "promptDelete": false
